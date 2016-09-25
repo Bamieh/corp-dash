@@ -1,7 +1,20 @@
-# Coop-dash
+# Corporate Dashboard
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+A corporate dashboard application using a EmberJS. This project focuses on the usage of data storage files and Ember's Data storage model.
+
+## Data Stores
+**Geospatial view, identifying the number of employees at various company locations.**
+
+This page uses JSON data from firebase to populate the file.
+
+**“key metrics” view, containing components displaying: the number of open issues, a line chart reflecting number of paying customers over a period of time, and a bar chart reflecting number of reported issues over a period of time.**
+
+Firebase real-time data.
+
+**“data view” of all issues, with an appearance similar to a spreadsheet, that is sortable and filterable.**
+
+CSV data file loaded from file, converted into JSON and populated via handlebar templates.
+
 
 ## Prerequisites
 
@@ -15,7 +28,7 @@ You will need the following things properly installed on your computer.
 
 ## Installation
 
-* `git clone <repository-url>` this repository
+* `git clone https://github.com/Bamieh/corp-dash.git` this repository
 * change into the new directory
 * `npm install`
 * `bower install`
@@ -24,24 +37,6 @@ You will need the following things properly installed on your computer.
 
 * `ember serve`
 * Visit your app at [http://localhost:4200](http://localhost:4200).
-
-### Code Generators
-
-Make use of the many generators for code, try `ember help generate` for more details
-
-### Running Tests
-
-* `ember test`
-* `ember test --server`
-
-### Building
-
-* `ember build` (development)
-* `ember build --environment production` (production)
-
-### Deploying
-
-Specify what it takes to deploy your app.
 
 ## Further Reading / Useful Links
 
