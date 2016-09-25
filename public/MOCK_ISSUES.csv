@@ -1,0 +1,101 @@
+customer_name,customer_email,address,description,status,submission_timestamp,closed_timestamp,employee_name
+Stephanie Cox,scox0@google.pl,9825 Judy Place,Web Designer II,closed,11:57 PM,7:44 PM,Stephanie
+Katherine Taylor,ktaylor1@e-recht24.de,81098 Monterey Way,Quality Engineer,opened,10:21 PM,3:27 PM,Katherine
+Brandon Richardson,brichardson2@amazon.co.uk,6 Hansons Hill,Registered Nurse,opened,2:11 PM,2:44 PM,Brandon
+Judith Gibson,jgibson3@cpanel.net,245 Bay Lane,Environmental Specialist,opened,8:51 PM,2:27 PM,Judith
+Judy Dunn,jdunn4@engadget.com,0 Schurz Lane,Payment Adjustment Coordinator,closed,10:46 PM,11:47 PM,Judy
+Julia Murphy,jmurphy5@opera.com,40203 Summit Park,Statistician IV,closed,3:12 AM,9:02 PM,Julia
+Matthew Peters,mpeters6@meetup.com,09785 Dahle Pass,Software Engineer IV,opened,11:20 AM,6:05 PM,Matthew
+Victor Allen,vallen7@digg.com,322 Dunning Circle,Cost Accountant,closed,1:52 AM,5:17 AM,Victor
+Amanda Ward,award8@oaic.gov.au,0 Clove Pass,Accountant III,closed,10:36 AM,3:37 PM,Amanda
+Roy Gonzalez,rgonzalez9@economist.com,0 Larry Place,Recruiter,opened,12:22 AM,10:26 PM,Roy
+Justin Reed,jreeda@edublogs.org,8 Emmet Place,Clinical Specialist,opened,11:33 PM,1:18 PM,Justin
+Sara Fisher,sfisherb@multiply.com,03 Eliot Way,Senior Financial Analyst,closed,1:35 AM,3:39 PM,Sara
+Amy Alexander,aalexanderc@com.com,435 Duke Center,Staff Scientist,opened,4:34 PM,11:08 PM,Amy
+Catherine Robertson,crobertsond@baidu.com,5 Rowland Junction,Safety Technician IV,opened,3:26 AM,1:05 AM,Catherine
+Harry Graham,hgrahame@foxnews.com,2321 Quincy Avenue,Librarian,closed,10:46 PM,2:34 AM,Harry
+Kathryn Perkins,kperkinsf@ning.com,306 Pleasure Park,Desktop Support Technician,opened,3:07 AM,3:51 PM,Kathryn
+Sharon Long,slongg@tripadvisor.com,85 Bonner Drive,Research Assistant II,closed,4:45 AM,8:40 PM,Sharon
+Louis Foster,lfosterh@unc.edu,95 Service Trail,Quality Control Specialist,opened,1:46 AM,7:23 AM,Louis
+Diana Fuller,dfulleri@woothemes.com,637 Forster Point,Pharmacist,opened,2:20 PM,11:37 PM,Diana
+Wayne Stewart,wstewartj@sogou.com,5224 Washington Circle,Business Systems Development Analyst,opened,8:34 AM,10:44 PM,Wayne
+Alice Hamilton,ahamiltonk@pcworld.com,1 Main Place,Internal Auditor,closed,4:22 PM,6:19 AM,Alice
+Evelyn Johnston,ejohnstonl@skyrock.com,5002 Sherman Crossing,VP Quality Control,closed,4:29 PM,10:15 AM,Evelyn
+Phyllis Murphy,pmurphym@unc.edu,89 Eastlawn Hill,Structural Analysis Engineer,opened,11:43 PM,6:15 AM,Phyllis
+Evelyn Morgan,emorgann@usa.gov,33 Twin Pines Street,Structural Engineer,closed,3:46 AM,1:55 PM,Evelyn
+Amanda Ellis,aelliso@shareasale.com,92 Esker Pass,Technical Writer,opened,10:52 AM,5:28 PM,Amanda
+Jennifer Cooper,jcooperp@pcworld.com,1685 Victoria Park,Geological Engineer,closed,2:59 PM,8:00 PM,Jennifer
+Rachel Cruz,rcruzq@quantcast.com,77 Mallard Lane,VP Accounting,opened,2:49 PM,2:05 PM,Rachel
+Steve Williams,swilliamsr@furl.net,75 Continental Pass,Food Chemist,opened,1:39 AM,10:22 PM,Steve
+Michelle Chavez,mchavezs@infoseek.co.jp,1799 Michigan Trail,VP Marketing,closed,6:53 PM,6:09 AM,Michelle
+Anna Daniels,adanielst@lulu.com,8 Algoma Alley,Marketing Manager,closed,3:50 AM,12:28 AM,Anna
+Peter Garrett,pgarrettu@craigslist.org,870 Fallview Court,Account Executive,closed,12:51 PM,12:22 AM,Peter
+Beverly Graham,bgrahamv@wikispaces.com,96 Sloan Way,Biostatistician IV,closed,8:46 AM,7:14 AM,Beverly
+Cheryl Palmer,cpalmerw@youtube.com,1494 Gulseth Hill,Systems Administrator I,opened,4:02 AM,8:53 PM,Cheryl
+Jerry Murphy,jmurphyx@ocn.ne.jp,41 Parkside Alley,Physical Therapy Assistant,opened,1:33 AM,8:14 PM,Jerry
+Margaret Freeman,mfreemany@yellowbook.com,98 Stuart Junction,Engineer III,closed,11:15 AM,8:24 PM,Margaret
+Sarah Mason,smasonz@nps.gov,2789 Quincy Crossing,Operator,opened,5:30 PM,1:43 PM,Sarah
+Fred Vasquez,fvasquez10@de.vu,3048 Shoshone Crossing,Nurse Practicioner,opened,6:27 PM,8:04 AM,Fred
+Russell Hall,rhall11@answers.com,14 Basil Court,Occupational Therapist,opened,9:47 AM,4:13 AM,Russell
+Rose Rodriguez,rrodriguez12@opera.com,8 Atwood Street,Automation Specialist IV,opened,3:05 PM,11:11 AM,Rose
+Judy Brown,jbrown13@alibaba.com,3 Debra Terrace,Senior Quality Engineer,closed,9:41 PM,6:01 PM,Judy
+Louise Martinez,lmartinez14@wsj.com,513 Forest Court,Teacher,closed,12:30 PM,10:53 PM,Louise
+Pamela Carpenter,pcarpenter15@lulu.com,61 Eastlawn Pass,Programmer Analyst I,opened,7:31 PM,3:45 PM,Pamela
+Ann Crawford,acrawford16@timesonline.co.uk,65 Surrey Terrace,Computer Systems Analyst IV,opened,3:38 PM,8:58 PM,Ann
+Antonio Wright,awright17@sfgate.com,8 Red Cloud Point,Senior Developer,opened,3:52 PM,9:21 PM,Antonio
+Douglas Green,dgreen18@people.com.cn,0884 Corben Place,Health Coach I,closed,8:12 AM,5:42 AM,Douglas
+Melissa Cunningham,mcunningham19@zimbio.com,831 Anhalt Plaza,General Manager,opened,7:12 PM,11:53 PM,Melissa
+Matthew Butler,mbutler1a@nsw.gov.au,9 Bowman Crossing,Social Worker,closed,4:33 AM,10:17 AM,Matthew
+Ruth Fox,rfox1b@shinystat.com,01761 Jana Circle,Marketing Assistant,opened,9:46 PM,1:26 PM,Ruth
+John Fuller,jfuller1c@mayoclinic.com,8 Sauthoff Avenue,Teacher,closed,3:43 AM,6:20 AM,John
+Nancy Wallace,nwallace1d@virginia.edu,98 Laurel Plaza,Associate Professor,closed,5:08 AM,6:24 PM,Nancy
+George Fuller,gfuller1e@istockphoto.com,7171 International Crossing,Desktop Support Technician,closed,8:18 PM,9:09 PM,George
+Stephanie Black,sblack1f@studiopress.com,42 Melrose Pass,Senior Financial Analyst,closed,8:09 AM,7:57 AM,Stephanie
+Billy Ferguson,bferguson1g@miibeian.gov.cn,25 Corry Trail,Financial Advisor,closed,2:24 AM,6:45 AM,Billy
+Donna Hudson,dhudson1h@people.com.cn,68 Vera Street,Analog Circuit Design manager,closed,12:12 PM,8:22 AM,Donna
+Ann Shaw,ashaw1i@lycos.com,3724 Union Trail,Food Chemist,closed,8:39 PM,5:35 PM,Ann
+Jeremy Gray,jgray1j@geocities.jp,5 Annamark Point,Operator,closed,3:56 PM,12:47 AM,Jeremy
+Carl White,cwhite1k@tiny.cc,91116 Annamark Street,Senior Developer,opened,12:58 AM,3:49 PM,Carl
+Amanda Gutierrez,agutierrez1l@istockphoto.com,67975 Logan Plaza,Senior Cost Accountant,closed,9:36 PM,7:10 AM,Amanda
+Anna Ramirez,aramirez1m@hc360.com,307 Trailsway Center,Safety Technician II,closed,2:57 PM,12:23 AM,Anna
+Betty Wallace,bwallace1n@zimbio.com,42 Arapahoe Place,Senior Cost Accountant,opened,12:37 AM,10:33 PM,Betty
+Adam Carr,acarr1o@myspace.com,231 Barnett Crossing,Senior Editor,opened,7:56 AM,5:19 AM,Adam
+Rachel Kelley,rkelley1p@state.tx.us,2891 Darwin Alley,Speech Pathologist,opened,9:19 PM,4:24 AM,Rachel
+Victor Simpson,vsimpson1q@google.com.br,750 Sloan Terrace,VP Quality Control,opened,8:57 PM,12:14 PM,Victor
+Phyllis Bryant,pbryant1r@free.fr,5824 Muir Way,Librarian,opened,12:58 AM,4:21 AM,Phyllis
+Lori Henderson,lhenderson1s@aboutads.info,98377 Shelley Plaza,Accounting Assistant I,closed,6:21 PM,8:08 PM,Lori
+Christina Weaver,cweaver1t@aboutads.info,7779 Kennedy Circle,VP Product Management,closed,1:04 AM,1:04 AM,Christina
+Philip Payne,ppayne1u@ox.ac.uk,0 Union Center,Civil Engineer,opened,9:07 AM,11:41 PM,Philip
+Diane Gomez,dgomez1v@exblog.jp,801 Jay Center,Sales Representative,opened,5:07 AM,6:45 PM,Diane
+Gary James,gjames1w@usa.gov,804 Straubel Lane,Senior Developer,opened,10:48 PM,5:08 AM,Gary
+Aaron Holmes,aholmes1x@techcrunch.com,2875 Di Loreto Parkway,VP Accounting,opened,1:55 AM,3:31 AM,Aaron
+Gerald Kennedy,gkennedy1y@soundcloud.com,58714 Delladonna Point,Speech Pathologist,closed,2:44 AM,3:53 AM,Gerald
+Kathryn Gomez,kgomez1z@reverbnation.com,29 Melody Circle,Staff Accountant IV,closed,4:51 AM,7:26 PM,Kathryn
+Arthur Weaver,aweaver20@free.fr,700 Sachtjen Place,VP Marketing,opened,8:12 AM,8:21 AM,Arthur
+Howard Rose,hrose21@ucla.edu,1 Surrey Place,Structural Engineer,closed,10:54 PM,2:51 PM,Howard
+Lori Hawkins,lhawkins22@statcounter.com,520 Coolidge Circle,Marketing Manager,closed,4:13 AM,12:16 AM,Lori
+Wanda Arnold,warnold23@homestead.com,176 Thompson Lane,Nurse,closed,2:13 PM,12:24 AM,Wanda
+Maria Evans,mevans24@over-blog.com,02 Bayside Way,Editor,closed,12:53 AM,5:33 AM,Maria
+Janet Phillips,jphillips25@artisteer.com,27287 Pleasure Junction,Marketing Manager,closed,12:53 AM,6:55 PM,Janet
+Steven Morris,smorris26@amazon.co.uk,7679 Grasskamp Place,Web Developer III,closed,11:24 PM,7:13 AM,Steven
+Louis Greene,lgreene27@storify.com,94651 Bluestem Hill,Technical Writer,closed,5:27 PM,11:52 AM,Louis
+Roy Brooks,rbrooks28@java.com,05 Declaration Junction,VP Quality Control,opened,7:56 PM,3:43 PM,Roy
+Cynthia Flores,cflores29@archive.org,0 Caliangt Plaza,Financial Analyst,opened,9:31 AM,2:07 AM,Cynthia
+John Montgomery,jmontgomery2a@parallels.com,61 Meadow Ridge Drive,Financial Analyst,opened,8:41 AM,8:39 PM,John
+Keith Harper,kharper2b@amazonaws.com,59 Waubesa Place,Research Associate,closed,6:53 AM,1:34 AM,Keith
+Michelle Mills,mmills2c@com.com,2 Schmedeman Place,Help Desk Operator,closed,2:49 PM,2:16 PM,Michelle
+Martin Reynolds,mreynolds2d@clickbank.net,835 Swallow Park,Geological Engineer,opened,4:04 AM,6:00 AM,Martin
+Heather White,hwhite2e@gizmodo.com,0038 Bonner Center,Information Systems Manager,closed,7:28 PM,6:29 AM,Heather
+Johnny West,jwest2f@usnews.com,65875 Pepper Wood Court,Assistant Media Planner,opened,5:30 AM,4:45 PM,Johnny
+Richard Griffin,rgriffin2g@ycombinator.com,3 Veith Street,Senior Quality Engineer,opened,4:39 PM,11:49 PM,Richard
+Jane Burns,jburns2h@scientificamerican.com,6828 Stang Alley,Office Assistant II,opened,9:17 AM,6:29 PM,Jane
+Helen Burton,hburton2i@etsy.com,04569 Bonner Avenue,Director of Sales,opened,4:52 AM,8:12 PM,Helen
+Chris Thompson,cthompson2j@over-blog.com,9 Cottonwood Terrace,Staff Scientist,opened,11:34 PM,12:19 PM,Chris
+Ernest Hart,ehart2k@cargocollective.com,60610 Schiller Parkway,Senior Editor,closed,1:28 AM,1:45 AM,Ernest
+Martha Woods,mwoods2l@vinaora.com,940 Bluejay Trail,Operator,closed,12:50 AM,2:44 PM,Martha
+David Cook,dcook2m@cyberchimps.com,725 Pennsylvania Junction,Senior Sales Associate,closed,3:00 AM,4:58 PM,David
+Rose Riley,rriley2n@noaa.gov,2717 Norway Maple Trail,Accountant II,opened,5:36 AM,3:46 PM,Rose
+Jennifer Gordon,jgordon2o@biblegateway.com,58724 Lukken Junction,Health Coach IV,closed,8:20 PM,2:47 PM,Jennifer
+Johnny Ferguson,jferguson2p@oaic.gov.au,6 Artisan Circle,Account Executive,closed,6:58 AM,5:23 PM,Johnny
+Bruce Bowman,bbowman2q@dion.ne.jp,49 Eastlawn Hill,Marketing Manager,opened,12:25 AM,2:27 PM,Bruce
+Martin Reid,mreid2r@un.org,4 Marcy Hill,Environmental Tech,opened,9:39 PM,2:37 PM,Martin
