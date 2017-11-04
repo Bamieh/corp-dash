@@ -1,5 +1,7 @@
 # Corporate Dashboard
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Bamieh/corp-dash.svg)](https://greenkeeper.io/)
+
 A corporate dashboard application using a EmberJS. This project focuses on the usage of data storage files and Ember's Data storage model.
 
 ## Data Stores
