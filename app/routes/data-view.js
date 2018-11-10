@@ -7,7 +7,6 @@ export default Ember.Route.extend({
         resolve(csvJSON(result));
       });
     })
-
   }
 });
 

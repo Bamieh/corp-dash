@@ -1,10 +1,6 @@
 {{outlet}}
 
 <section>
-<h1>here is your data</h1>
-
-{{!-- {{log model}} --}}
-
 {{#csv-table id="issues-table" class='radius left'}}
   <thead> 
     <tr>
@@ -16,20 +12,16 @@
   <tbody> 
   {{#each model.result as |issue|}}
     <tr> 
-        <td>Smith</td> 
-        <td>John</td> 
-        <td>{{issue.customer_email}}@gmail.com</td> 
-        <td>$50.00</td> 
-        <td>http://www.jsmith.com</td> 
+      <td>{{issue.customer_name}}</td>
+      <td>{{issue.customer_email}}</td>
+      <td>{{issue.address}}</td>
+      <td>{{issue.description}}</td>
+      <td>{{issue.status}}</td>
+      <td>{{issue.submission_timestamp}}</td>
+      <td>{{issue.closed_timestamp}}</td>
+      <td>{{issue.employee_name}}</td>
     </tr> 
   {{/each}}
   </tbody> 
 {{/csv-table}}
-
-{{!-- {{#each model as |issue|}}
-  <div>{{issue.customer_email}}</div>
-{{/each}} --}}
-
-<h1>end of data</h1>
-
 </section>

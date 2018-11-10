@@ -1,0 +1,16 @@
+.navbar-houseboat {
+  min-height: 70px;
+  border-bottom: 4px solid;
+  background-color: #EF5A31;
+  border-color: #7BBA1D;
+}
+.navbar-houseboat .navbar-header{
+}
+.navbar-houseboat img {
+  height: 50px;
+}
+.navbar-houseboat .navbar-brand {
+  padding: 8px 0 0 0;
+  position: absolute;
+  right: 50%;
+}

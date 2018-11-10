@@ -9,8 +9,9 @@ const Router = Ember.Router.extend({
 Router.map(function() {
   this.route('menu');
   this.route('geo-spatial');
-  this.route('posts');
   this.route('data-view');
+  this.route('json-map');
+  this.route('posts');
 });
 
 export default Router;

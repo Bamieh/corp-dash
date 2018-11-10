@@ -1,0 +1,33 @@
+{{notification-container position="top-right"}}
+
+<button {{action "notify"}}>Notify</button>
+
+<button class="btn btn-primary" {{action "showNotifcation"}}>Show</button>
+
+{{pie-chart}}
+
+<section>
+<h2>New Post</h2>
+<ul class="post-publish">
+  <li>
+    {{input value=title placeholder="Title"}}
+  </li>
+  <li>
+    {{textarea value=body placeholder="Body"}}
+  </li>
+  <li>
+    <button {{action "publishPost"}}>Publish</button>
+  </li>
+</ul>
+</section>
+
+
+
+<section>
+<h2>Posts on Firebase</h2>
+{{#each model as |post|}}
+  <div>{{post.title}}</div>
+  <div>{{post.body}}</div>
+{{/each}}
+</section>
+

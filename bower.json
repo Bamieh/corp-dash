@@ -5,6 +5,8 @@
     "ember-cli-shims": "0.1.1",
     "ember-qunit-notifications": "0.1.0",
     "firebase": "^3.0.0",
-    "tablesorter": "*"
+    "tablesorter": "*",
+    "bootstrap": "~3.3",
+    "ember-addons.bs_for_ember": "~0.7.0"
   }
 }

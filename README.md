@@ -2,6 +2,13 @@
 
 A corporate dashboard application using a EmberJS. This project focuses on the usage of data storage files and Ember's Data storage model.
 
+
+the number of open issues
+
+a line chart reflecting number of paying customers over a period of time,
+
+and a bar chart reflecting number of reported issues over a period of time.
+
 ## Data Stores
 **Geospatial view, identifying the number of employees at various company locations.**
 
